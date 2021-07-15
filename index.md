@@ -3,6 +3,7 @@ layout: single
 author_profile: true
 header:
     image: assets/images/mountain.jpeg
+title: Title of Your Post
 ---
 ### About me
 ---
