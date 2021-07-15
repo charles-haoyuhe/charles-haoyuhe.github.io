@@ -1,8 +1,9 @@
 ---
-layout: home
+layout: single
 author_profile: true
 header:
     image: assets/images/mountain.jpeg
+title: G'day mate 👋!
 ---
 ### About me
 ---
