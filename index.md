@@ -13,9 +13,9 @@ I am interested in efficiency problems in deep learning scenarios, human parsing
 ### News!
 ---
 
-- [06/2021] Check out our [Less is More: Pay Less Attention in Vision Transformers](https://arxiv.org/abs/2105.14217) that just got uploaded on arxiv!
-- [05/2021] Check out our [End-to-end One-shot Human Parsing](https://arxiv.org/abs/2105.01241) that just got uploaded on arxiv!
-- [03/2021] Check out our [Scalable Visual Transformers with Hierarchical Pooling](https://arxiv.org/abs/2103.10619) that just got uploaded on arxiv!
-- [02/2021] One paper got accepted by AAAI 2021, check out our [Progressive One-shot Human Parsing](https://arxiv.org/abs/2012.11810) and [github repo](https://github.com/Charleshhy/One-shot-Human-Parsing) for details!
-- [02/2020] One paper got accepted by AAAI 2020 for oral presentation, check out our [Grapy-ML: Graph Pyramid Mutual Learning for Cross-dataset Human Parsing](https://arxiv.org/abs/2012.11810) and [github repo](https://github.com/Charleshhy/Grapy-ML) for details!
+- [06/2021] Check out our paper: [Less is More: Pay Less Attention in Vision Transformers](https://arxiv.org/abs/2105.14217) that just got uploaded on arxiv!
+- [05/2021] Check out our paper: [End-to-end One-shot Human Parsing](https://arxiv.org/abs/2105.01241) that just got uploaded on arxiv!
+- [03/2021] Check out our paper: [Scalable Visual Transformers with Hierarchical Pooling](https://arxiv.org/abs/2103.10619) that just got uploaded on arxiv!
+- [02/2021] One paper got accepted by AAAI 2021, check out our paper: [Progressive One-shot Human Parsing](https://arxiv.org/abs/2012.11810) and [github repo](https://github.com/Charleshhy/One-shot-Human-Parsing) for details!
+- [02/2020] One paper got accepted by AAAI 2020 for oral presentation, check out our paper: [Grapy-ML: Graph Pyramid Mutual Learning for Cross-dataset Human Parsing](https://arxiv.org/abs/2012.11810) and [github repo](https://github.com/Charleshhy/Grapy-ML) for details!
 
