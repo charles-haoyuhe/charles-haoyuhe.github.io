@@ -105,11 +105,11 @@ author:
   avatar           : "assets/images/avatar.jpg"
 #  bio              : "Having a life"
   location         : "Melbourne, Australia"
-  email            :
+  email            : "charles.haoyu.he@gmail.com"
   links:
-    - label: "mailto:charles.haoyu.he@gmail.com"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "charles.haoyu.he@gmail.com"
+#    - label: "mailto:charles.haoyu.he@gmail.com"
+#      icon: "fas fa-fw fa-envelope-square"
+#      url: ""
     - label: "Google scholar"
       icon: "fas fa-fw fa-graduation-cap"
       url: "https://scholar.google.com.au/citations?user=aU1zMhUAAAAJ&hl=en"
