@@ -12,7 +12,9 @@ I am interested in efficiency problems in deep learning scenarios, human parsing
 
 ### News!
 ---
-
+- [11/2021] Check out our paper: [Pruning Self-attentions into Convolutional Layers in Single Path](https://arxiv.org/abs/2111.11802) that just got uploaded on arxiv!
+- [11/2021] Check out our paper: [Mesa: A Memory-saving Training Framework for Transformers](https://arxiv.org/abs/2111.11124) that just got uploaded on arxiv!
+- [07/2021] One paper got accepted by ICCV 2021!
 - [06/2021] Check out our paper: [Less is More: Pay Less Attention in Vision Transformers](https://arxiv.org/abs/2105.14217) that just got uploaded on arxiv!
 - [05/2021] Check out our paper: [End-to-end One-shot Human Parsing](https://arxiv.org/abs/2105.01241) that just got uploaded on arxiv!
 - [03/2021] Check out our paper: [Scalable Visual Transformers with Hierarchical Pooling](https://arxiv.org/abs/2103.10619) that just got uploaded on arxiv!
