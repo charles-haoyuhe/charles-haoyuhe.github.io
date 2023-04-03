@@ -218,4 +218,4 @@ Reviewer for CVPR 2022, ECCV 2022, CVPR 2023, ICCV 2023, NeurIPS 2023, TPAMI, an
 
 ### Teaching
 ---
-COMP5318 (USYD), COMP5349 (USYD), FIT5201 (Monash), FIT5047 (Monash).
+Teaching assistant for COMP5318 (USYD, 2020), COMP5349 (USYD, 2020), FIT5201 (Monash, 2023), FIT5047 (Monash, 2023).
