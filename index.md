@@ -142,7 +142,7 @@ I am interested in the efficiency problems in deep learning scenarios and segmen
       <img src="assets/images/spt.jpg" alt="Paper image" class="img-fluid">
   </div>
   <div class="block-right">
-    <p class="title"> Sensitivity-Aware Visual Parameter-Efficient Tuning </p>
+    <p class="title"> Sensitivity-Aware Visual Parameter-Efficient Tuning [ICCV 2023] </p>
     <p> <span class="ul">Haoyu He</span>, Jianfei Cai, Jing Zhang, Dacheng Tao, Bohan Zhuang</p>
     <p><a href="https://arxiv.org/abs/2303.08566"> PDF</a> / <a href="https://github.com/ziplab/spt"> Code </a> </p>
   </div>
@@ -153,7 +153,7 @@ I am interested in the efficiency problems in deep learning scenarios and segmen
       <img src="assets/images/faseg.png" alt="Paper image" class="img-fluid">
   </div>
   <div class="block-right">
-    <p class="title"> Dynamic Focus-aware Positional Queries for Semantic Segmentation (CVPR 2023) </p>
+    <p class="title"> Dynamic Focus-aware Positional Queries for Semantic Segmentation [CVPR 2023] </p>
     <p> <span class="ul">Haoyu He</span>, Jianfei Cai, Zizheng Pan, Jing Liu, Jing Zhang, Dacheng Tao, Bohan Zhuang</p>
     <p><a href="https://arxiv.org/abs/2204.01244"> PDF</a> / <a href="https://github.com/ziplab/FASeg"> Code </a> </p>
   </div>
@@ -164,7 +164,7 @@ I am interested in the efficiency problems in deep learning scenarios and segmen
       <img src="assets/images/ecoformer.jpg" alt="Paper image" class="img-fluid">
   </div>
   <div class="block-right">
-    <p class="title"> EcoFormer: Energy-Saving Attention with Linear Complexity (NeurIPS 2023) </p>
+    <p class="title"> EcoFormer: Energy-Saving Attention with Linear Complexity [NeurIPS 2023] </p>
     <p>Jing Liu, Zizheng Pan, <span class="ul">Haoyu He</span>, Jianfei Cai, Bohan Zhuang</p>
     <p><a href="https://arxiv.org/abs/2209.09004"> PDF</a> / <a href="https://github.com/ziplab/EcoFormer"> Code </a> </p>
   </div>
@@ -186,7 +186,7 @@ I am interested in the efficiency problems in deep learning scenarios and segmen
       <img src="assets/images/lit.png" alt="Paper image" class="img-fluid">
   </div>
   <div class="block-right">
-    <p class="title"> Less is More: Pay Less Attention in Vision Transformers (AAAI 2022) </p>
+    <p class="title"> Less is More: Pay Less Attention in Vision Transformers [AAAI 2022] </p>
     <p>Zizheng Pan, Bohan Zhuang, <span class="ul">Haoyu He</span>, Jing Liu, Jianfei Cai</p>
     <p><a href="https://arxiv.org/abs/2105.14217"> PDF</a> / <a href="https://github.com/ziplab/LIT"> Code </a> </p>
   </div>
@@ -208,7 +208,7 @@ I am interested in the efficiency problems in deep learning scenarios and segmen
       <img src="assets/images/grapy.png" alt="Paper image" class="img-fluid">
   </div>
   <div class="block-right">
-    <p class="title"> Grapy-ML: Graph Pyramid Mutual Learning for Cross-dataset Human Parsing (AAAI 2020) </p>
+    <p class="title"> Grapy-ML: Graph Pyramid Mutual Learning for Cross-dataset Human Parsing [AAAI 2020] </p>
     <p><span class="ul">Haoyu He</span>, Jing Zhang, Qiming Zhang, Dacheng Tao</p>
     <p><a href="https://arxiv.org/abs/1911.12053"> PDF</a> / <a href="https://github.com/Charleshhy/Grapy-ML"> Code </a> </p>
   </div>
@@ -220,4 +220,4 @@ Reviewer for CVPR 2022, ECCV 2022, CVPR 2023, ICCV 2023, NeurIPS 2023, TPAMI, an
 
 ### Teaching
 ---
-Teaching assistant for COMP5318 (USYD, 2020), COMP5349 (USYD, 2020), FIT5201 (Monash, 2023), FIT5047 (Monash, 2023).
+Teaching assistant for COMP5318 - Machine Learning and Data Mining (USYD, 2020), COMP5349 - Cloud Computing (USYD, 2020), FIT5201 - Machine Learning (Monash, 2023), FIT5047 - Fundamentals of Artificial Intelligence (Monash, 2023).
