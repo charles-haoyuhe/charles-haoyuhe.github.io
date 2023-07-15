@@ -197,7 +197,7 @@ I am interested in the efficiency problems in deep learning scenarios and segmen
       <img src="assets/images/popnet.png" alt="Paper image" class="img-fluid">
   </div>
   <div class="block-right">
-    <p class="title"> Progressive One-shot Human Parsing (AAAI 2021) </p>
+    <p class="title"> Progressive One-shot Human Parsing [AAAI 2021] </p>
     <p><span class="ul">Haoyu He</span>, Bohan Zhuang, Jing Zhang, Jianfei Cai, Dacheng Tao</p>
     <p><a href="https://arxiv.org/abs/2105.01241"> PDF</a> / <a href="https://github.com/Charleshhy/One-shot-Human-Parsing"> Code </a> </p>
   </div>
