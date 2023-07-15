@@ -164,7 +164,7 @@ I am interested in the efficiency problems in deep learning scenarios and segmen
       <img src="assets/images/ecoformer.jpg" alt="Paper image" class="img-fluid">
   </div>
   <div class="block-right">
-    <p class="title"> EcoFormer: Energy-Saving Attention with Linear Complexity [NeurIPS 2023] </p>
+    <p class="title"> EcoFormer: Energy-Saving Attention with Linear Complexity [NeurIPS 2022] </p>
     <p>Jing Liu, Zizheng Pan, <span class="ul">Haoyu He</span>, Jianfei Cai, Bohan Zhuang</p>
     <p><a href="https://arxiv.org/abs/2209.09004"> PDF</a> / <a href="https://github.com/ziplab/EcoFormer"> Code </a> </p>
   </div>
