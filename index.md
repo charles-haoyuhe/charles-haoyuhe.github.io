@@ -15,7 +15,7 @@ I am looking for an internship position!
 ### News!
 ---
 - [07/2023] Our paper [SPT](https://arxiv.org/abs/2303.08566) got accepted by ICCV 2023!
-- [02/2023] Our [survey paper](https://arxiv.org/abs/2302.01107) on efficient training of transformers got accepted by CVPR 2023!
+- [02/2023] Our [survey paper](https://arxiv.org/abs/2302.01107) on efficient training of transformers got accepted by IJCAI 2023!
 - [02/2023] Our paper [FASeg](https://arxiv.org/abs/2204.01244) got accepted by CVPR 2023!
 - [09/2022] Our paper [Ecoformer](https://arxiv.org/abs/2209.09004) got accepted by NeurIPS 2022!
 - [12/2021] Our paper [LIT](https://arxiv.org/abs/2105.14217) got accepted by AAAI 2022!
