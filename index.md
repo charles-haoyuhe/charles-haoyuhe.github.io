@@ -7,14 +7,15 @@ title: G'day mate 👋!
 ---
 ### About me
 ---
-I am a second-year Ph.D. student of Department of DSAI, Faculty of IT, Monash University, supervised by [Asst. Prof. Bohan Zhuang](https://bohanzhuang.github.io/) and [Prof. Jianfei Cai](https://jianfei-cai.github.io/). Before joining [Zip Lab](https://ziplab.github.io/), I obtained my M.Phil. degree from University of Sydney, under the supervision of [Prof. Dacheng Tao](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/dacheng-tao.html) and [Dr. Jing Zhang](https://scholar.google.com/citations?user=9jH5v74AAAAJ&hl=en). 
+I am a third-year Ph.D. student of Department of DSAI, Faculty of IT, Monash University, supervised by [Asst. Prof. Bohan Zhuang](https://bohanzhuang.github.io/) and [Prof. Jianfei Cai](https://jianfei-cai.github.io/). Before joining [Zip Lab](https://ziplab.github.io/), I obtained my M.Phil. degree from University of Sydney, under the supervision of [Prof. Dacheng Tao](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/dacheng-tao.html) and [Dr. Jing Zhang](https://scholar.google.com/citations?user=9jH5v74AAAAJ&hl=en). 
 I am interested in the efficiency problems in deep learning scenarios and segmentation tasks!
 
 I am looking for an internship position!  
 
 ### News!
 ---
-- [07/2023] Our paper [SPT](https://arxiv.org/abs/2303.08566) got accepted by ICCV 2023!
+- [08/2023] Our paper [SPT](https://arxiv.org/abs/2303.08566) got accepted by ICCV 2023 for oral presentation!
+- [07/2023] Our paper [End-to-end One-shot Human Parsing](https://arxiv.org/abs/2105.01241) got accepted by TPAMI 2023!
 - [02/2023] Our [survey paper](https://arxiv.org/abs/2302.01107) on efficient training of transformers got accepted by IJCAI 2023!
 - [02/2023] Our paper [FASeg](https://arxiv.org/abs/2204.01244) got accepted by CVPR 2023!
 - [09/2022] Our paper [Ecoformer](https://arxiv.org/abs/2209.09004) got accepted by NeurIPS 2022!
@@ -144,9 +145,31 @@ I am looking for an internship position!
       <img src="assets/images/spt.jpg" alt="Paper image" class="img-fluid">
   </div>
   <div class="block-right">
-    <p class="title"> Sensitivity-Aware Visual Parameter-Efficient Tuning [ICCV 2023] </p>
+    <p class="title"> Sensitivity-Aware Visual Parameter-Efficient Tuning [ICCV 2023] (oral) </p>
     <p> <span class="ul">Haoyu He</span>, Jianfei Cai, Jing Zhang, Dacheng Tao, Bohan Zhuang</p>
     <p><a href="https://arxiv.org/abs/2303.08566"> PDF</a> / <a href="https://github.com/ziplab/spt"> Code </a> </p>
+  </div>
+</div>
+
+<div class="container">
+  <div class="block-left">
+      <img src="assets/images/eopnet.png" alt="Paper image" class="img-fluid">
+  </div>
+  <div class="block-right">
+    <p class="title"> End-to-end One-shot Human Parsing [TPAMI 2023] </p>
+    <p> <span class="ul">Haoyu He</span>, Jing Zhang, Bohan Zhuang, Jianfei Cai, Dacheng Tao</p>
+    <p><a href="https://arxiv.org/abs/2105.01241"> PDF</a> / <a href="https://github.com/Charleshhy/One-shot-Human-Parsing"> Code </a> </p>
+  </div>
+</div>
+
+<div class="container">
+  <div class="block-left">
+      <img src="assets/images/survey.png" alt="Paper image" class="img-fluid">
+  </div>
+  <div class="block-right">
+    <p class="title"> A Survey on Efficient Training of Transformers [IJCAI 2023] </p>
+    <p> Bohan Zhuang, Jing Liu, Zizheng Pan, <span class="ul">Haoyu He</span>, Yuetian Weng, Chunhua Shen</p>
+    <p><a href="https://arxiv.org/abs/2302.01107"> PDF</a></p>
   </div>
 </div>
 
@@ -166,7 +189,7 @@ I am looking for an internship position!
       <img src="assets/images/ecoformer.jpg" alt="Paper image" class="img-fluid">
   </div>
   <div class="block-right">
-    <p class="title"> EcoFormer: Energy-Saving Attention with Linear Complexity [NeurIPS 2022] </p>
+    <p class="title"> EcoFormer: Energy-Saving Attention with Linear Complexity [NeurIPS 2022] (highlight) </p>
     <p>Jing Liu, Zizheng Pan, <span class="ul">Haoyu He</span>, Jianfei Cai, Bohan Zhuang</p>
     <p><a href="https://arxiv.org/abs/2209.09004"> PDF</a> / <a href="https://github.com/ziplab/EcoFormer"> Code </a> </p>
   </div>
@@ -196,10 +219,10 @@ I am looking for an internship position!
 
 <div class="container">
   <div class="block-left">
-      <img src="assets/images/popnet.png" alt="Paper image" class="img-fluid">
+      <img src="assets/images/oneshot.png" alt="Paper image" class="img-fluid">
   </div>
   <div class="block-right">
-    <p class="title"> Progressive One-shot Human Parsing [AAAI 2021] </p>
+    <p class="title"> Progressive One-shot Human Parsing [AAAI 2021] (oral) </p>
     <p><span class="ul">Haoyu He</span>, Bohan Zhuang, Jing Zhang, Jianfei Cai, Dacheng Tao</p>
     <p><a href="https://arxiv.org/abs/2105.01241"> PDF</a> / <a href="https://github.com/Charleshhy/One-shot-Human-Parsing"> Code </a> </p>
   </div>
@@ -210,7 +233,7 @@ I am looking for an internship position!
       <img src="assets/images/grapy.png" alt="Paper image" class="img-fluid">
   </div>
   <div class="block-right">
-    <p class="title"> Grapy-ML: Graph Pyramid Mutual Learning for Cross-dataset Human Parsing [AAAI 2020] </p>
+    <p class="title"> Grapy-ML: Graph Pyramid Mutual Learning for Cross-dataset Human Parsing [AAAI 2020] (oral) </p>
     <p><span class="ul">Haoyu He</span>, Jing Zhang, Qiming Zhang, Dacheng Tao</p>
     <p><a href="https://arxiv.org/abs/1911.12053"> PDF</a> / <a href="https://github.com/Charleshhy/Grapy-ML"> Code </a> </p>
   </div>
@@ -222,4 +245,8 @@ Reviewer for CVPR 2022, ECCV 2022, CVPR 2023, ICCV 2023, NeurIPS 2023, TPAMI, an
 
 ### Teaching
 ---
-Teaching assistant for COMP5318 - Machine Learning and Data Mining (USYD, 2020), COMP5349 - Cloud Computing (USYD, 2020), FIT5201 - Machine Learning (Monash, 2023), FIT5047 - Fundamentals of Artificial Intelligence (Monash, 2023).
+Teaching associate for
+- COMP5318 - Machine Learning and Data Mining (USYD, 2020)
+- COMP5349 - Cloud Computing (USYD, 2020)
+- FIT5047 - Fundamentals of Artificial Intelligence (Monash, 2023).
+- FIT5201 - Machine Learning (Monash, 2023)
