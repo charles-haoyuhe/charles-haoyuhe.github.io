@@ -14,8 +14,10 @@ I am looking for an internship position!
 
 ### News!
 ---
+- [12/2023] Our paper [SPViT](https://arxiv.org/abs/2111.11802) got accepted by TPAMI!
+- [09/2023] Our paper [MPVSS](https://arxiv.org/abs/2310.18954) got accepted by NeurIPS 2023!
 - [08/2023] Our paper [SPT](https://arxiv.org/abs/2303.08566) got accepted by ICCV 2023 for oral presentation!
-- [07/2023] Our paper [End-to-end One-shot Human Parsing](https://arxiv.org/abs/2105.01241) got accepted by TPAMI 2023!
+- [07/2023] Our paper [End-to-end One-shot Human Parsing](https://arxiv.org/abs/2105.01241) got accepted by TPAMI!
 - [02/2023] Our [survey paper](https://arxiv.org/abs/2302.01107) on efficient training of transformers got accepted by IJCAI 2023!
 - [02/2023] Our paper [FASeg](https://arxiv.org/abs/2204.01244) got accepted by CVPR 2023!
 - [09/2022] Our paper [Ecoformer](https://arxiv.org/abs/2209.09004) got accepted by NeurIPS 2022!
@@ -140,6 +142,29 @@ I am looking for an internship position!
   </style>
 </head>
 
+
+<div class="container">
+  <div class="block-left">
+      <img src="assets/images/spvit.png" alt="Paper image" class="img-fluid">
+  </div>
+  <div class="block-right">
+    <p class="title"> Pruning Self-attentions into Convolutional Layers in Single Path [TPAMI 2024] </p>
+    <p><span class="ul">Haoyu He</span>, Jing Liu, Zizheng Pan, Jianfei Cai, Jing Zhang, Dacheng Tao, Bohan Zhuang</p>
+    <p><a href="https://arxiv.org/abs/2111.11802"> PDF</a> / <a href="https://github.com/ziplab/SPViT"> Code </a> </p>
+  </div>
+</div>
+
+<div class="container">
+  <div class="block-left">
+      <img src="assets/images/mpvss.jpg" alt="Paper image" class="img-fluid">
+  </div>
+  <div class="block-right">
+    <p class="title"> Mask Propagation for Efficient Video Semantic Segmentation [NeurIPS 2023] </p>
+    <p>Yuetian Weng, Mingfei Han, <span class="ul">Haoyu He</span>, Mingjie Li, Lina Yao, Xiaojun Chang, Bohan Zhuang</p>
+    <p><a href="https://arxiv.org/abs/2310.18954"> PDF</a> / <a href="https://github.com/ziplab/MPVSS"> Code </a> </p>
+  </div>
+</div>
+
 <div class="container">
   <div class="block-left">
       <img src="assets/images/spt.jpg" alt="Paper image" class="img-fluid">
@@ -192,17 +217,6 @@ I am looking for an internship position!
     <p class="title"> EcoFormer: Energy-Saving Attention with Linear Complexity [NeurIPS 2022] (highlight) </p>
     <p>Jing Liu, Zizheng Pan, <span class="ul">Haoyu He</span>, Jianfei Cai, Bohan Zhuang</p>
     <p><a href="https://arxiv.org/abs/2209.09004"> PDF</a> / <a href="https://github.com/ziplab/EcoFormer"> Code </a> </p>
-  </div>
-</div>
-
-<div class="container">
-  <div class="block-left">
-      <img src="assets/images/spvit.png" alt="Paper image" class="img-fluid">
-  </div>
-  <div class="block-right">
-    <p class="title"> Pruning Self-attentions into Convolutional Layers in Single Path </p>
-    <p><span class="ul">Haoyu He</span>, Jing Liu, Zizheng Pan, Jianfei Cai, Jing Zhang, Dacheng Tao, Bohan Zhuang</p>
-    <p><a href="https://arxiv.org/abs/2111.11802"> PDF</a> / <a href="https://github.com/ziplab/SPViT"> Code </a> </p>
   </div>
 </div>
 
