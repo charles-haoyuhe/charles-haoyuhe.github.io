@@ -10,8 +10,6 @@ title: G'day mate 👋!
 I am a third-year Ph.D. student of Department of DSAI, Faculty of IT, Monash University, supervised by [Asst. Prof. Bohan Zhuang](https://bohanzhuang.github.io/) and [Prof. Jianfei Cai](https://jianfei-cai.github.io/). Before joining [Zip Lab](https://ziplab.github.io/), I obtained my M.Phil. degree from University of Sydney, under the supervision of [Prof. Dacheng Tao](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/dacheng-tao.html) and [Dr. Jing Zhang](https://scholar.google.com/citations?user=9jH5v74AAAAJ&hl=en). 
 I am interested in the efficiency problems in deep learning scenarios and segmentation tasks!
 
-I am looking for an internship position!  
-
 ### News!
 ---
 - [12/2023] Our paper [SPViT](https://arxiv.org/abs/2111.11802) got accepted by TPAMI!
