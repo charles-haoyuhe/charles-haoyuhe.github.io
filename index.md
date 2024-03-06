@@ -12,19 +12,19 @@ I am interested in the efficiency problems in deep learning scenarios and segmen
 
 ### News!
 ---
-- [03/2024] Our paper [ESTA](https://arxiv.org/abs/2311.17352) got accepted by CVPR 2024!
-- [12/2023] Our paper [SPViT](https://arxiv.org/abs/2111.11802) got accepted by TPAMI!
-- [11/2023] I have joined TikTok Sydney as a research engineer intern working on efficient Video LLMs!
-- [09/2023] Our paper [MPVSS](https://arxiv.org/abs/2310.18954) got accepted by NeurIPS 2023!
-- [08/2023] Our paper [SPT](https://arxiv.org/abs/2303.08566) got accepted by ICCV 2023 for oral presentation!
+- [03/2024] Our paper [ESTA](https://arxiv.org/abs/2311.17352) on model stitching and adaptation got accepted by CVPR 2024!
+- [12/2023] Our paper [SPViT](https://arxiv.org/abs/2111.11802) on visual Transformer pruning got accepted by TPAMI!
+- [11/2023] I have joined TikTok Sydney as a research engineer intern working on efficient video LLMs!
+- [09/2023] Our paper [MPVSS](https://arxiv.org/abs/2310.18954) on efficient video segmentation got accepted by NeurIPS 2023!
+- [08/2023] Our paper [SPT](https://arxiv.org/abs/2303.08566) on adaptive parameter-efficient fine-tuning got accepted by ICCV 2023 for oral presentation!
 - [07/2023] Our paper [End-to-end One-shot Human Parsing](https://arxiv.org/abs/2105.01241) got accepted by TPAMI!
 - [02/2023] Our [survey paper](https://arxiv.org/abs/2302.01107) on efficient training of transformers got accepted by IJCAI 2023!
-- [02/2023] Our paper [FASeg](https://arxiv.org/abs/2204.01244) got accepted by CVPR 2023!
-- [09/2022] Our paper [Ecoformer](https://arxiv.org/abs/2209.09004) got accepted by NeurIPS 2022!
-- [12/2021] Our paper [LIT](https://arxiv.org/abs/2105.14217) got accepted by AAAI 2022!
-- [07/2021] Our paper [HVT](https://arxiv.org/abs/2103.10619) got accepted by ICCV 2021!
-- [12/2020] Our paper [POPNet](https://arxiv.org/abs/2012.11810) got accepted by AAAI 2021!
-- [12/2019] Our paper [Grapy-ML](https://arxiv.org/abs/2012.11810) got accepted by AAAI 2020!
+- [02/2023] Our paper [FASeg](https://arxiv.org/abs/2204.01244) on adaptive semantic segmentation got accepted by CVPR 2023!
+- [09/2022] Our paper [Ecoformer](https://arxiv.org/abs/2209.09004) on energy-saving attentions got accepted by NeurIPS 2022!
+- [12/2021] Our paper [LIT](https://arxiv.org/abs/2105.14217) on efficient transformer architectures got accepted by AAAI 2022!
+- [07/2021] Our paper [HVT](https://arxiv.org/abs/2103.10619) on efficient transformer architectures got accepted by ICCV 2021!
+- [12/2020] Our paper [POPNet](https://arxiv.org/abs/2012.11810) on data-efficient human parsing got accepted by AAAI 2021!
+- [12/2019] Our paper [Grapy-ML](https://arxiv.org/abs/2012.11810) on cross-dataset human parsing got accepted by AAAI 2020!
 
 ### Papers
 ---
