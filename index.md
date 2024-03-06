@@ -14,7 +14,7 @@ I am interested in the efficiency problems in deep learning scenarios and segmen
 ---
 - [03/2024] Our paper [ESTA](https://arxiv.org/abs/2311.17352) got accepted by CVPR 2024!
 - [12/2023] Our paper [SPViT](https://arxiv.org/abs/2111.11802) got accepted by TPAMI!
-- [11/2023] I have joined TikTok Sydney as a research engineer intern working on efficient video QA models!
+- [11/2023] I have joined TikTok Sydney as a research engineer intern working on efficient Video LLMs!
 - [09/2023] Our paper [MPVSS](https://arxiv.org/abs/2310.18954) got accepted by NeurIPS 2023!
 - [08/2023] Our paper [SPT](https://arxiv.org/abs/2303.08566) got accepted by ICCV 2023 for oral presentation!
 - [07/2023] Our paper [End-to-end One-shot Human Parsing](https://arxiv.org/abs/2105.01241) got accepted by TPAMI!
