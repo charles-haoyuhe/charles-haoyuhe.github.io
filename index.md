@@ -142,6 +142,16 @@ I am interested in the efficiency problems in deep learning scenarios and segmen
   </style>
 </head>
 
+<div class="container">
+  <div class="block-left">
+      <img src="assets/images/esta.png" alt="Paper image" class="img-fluid">
+  </div>
+  <div class="block-right">
+    <p class="title"> Efficient Stitchable Task Adaptation [CVPR 2024] </p>
+    <p><span class="ul">Haoyu He</span>, Zizheng Pan, Jing Liu, Jianfei Cai, Bohan Zhuang</p>
+    <p><a href="https://arxiv.org/abs/2111.11802"> PDF</a> / <a href="https://github.com/ziplab/SPViT"> Code </a> </p>
+  </div>
+</div>
 
 <div class="container">
   <div class="block-left">
