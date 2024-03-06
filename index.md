@@ -255,7 +255,7 @@ I am interested in the efficiency problems in deep learning scenarios and segmen
 
 ### Services
 ---
-Reviewer for CVPR 2022, ECCV 2022, CVPR 2023, ICCV 2023, NeurIPS 2023, TPAMI, and TMM.
+Reviewer for CVPR, ECCV, ICCV, NeurIPS, AAAI, TPAMI, and TMM.
 
 ### Teaching
 ---
