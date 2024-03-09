@@ -17,7 +17,7 @@ My research interests include efficiency problems in deep learning scenarios, mu
 - [11/2023] I have joined TikTok Sydney as a research engineer intern working on efficient video LLMs!
 - [09/2023] Our paper [MPVSS](https://arxiv.org/abs/2310.18954) on efficient video segmentation got accepted by NeurIPS 2023!
 - [08/2023] Our paper [SPT](https://arxiv.org/abs/2303.08566) on adaptive parameter-efficient fine-tuning got accepted by ICCV 2023 for oral presentation!
-- [07/2023] Our paper [End-to-end One-shot Human Parsing](https://arxiv.org/abs/2105.01241) got accepted by TPAMI!
+- [07/2023] Our paper [EOPNet](https://arxiv.org/abs/2105.01241) on data-efficient human parsing got accepted by TPAMI!
 - [02/2023] Our [survey paper](https://arxiv.org/abs/2302.01107) on efficient training of transformers got accepted by IJCAI 2023!
 - [02/2023] Our paper [FASeg](https://arxiv.org/abs/2204.01244) on adaptive semantic segmentation got accepted by CVPR 2023!
 - [09/2022] Our paper [Ecoformer](https://arxiv.org/abs/2209.09004) on energy-saving attentions got accepted by NeurIPS 2022!
